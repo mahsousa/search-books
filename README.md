@@ -1,8 +1,11 @@
 # Projeto em desenvolvimento
+![search-books](https://github.com/mahsousa/search-books/assets/32987989/81048825-0d4e-4927-9293-8dfb9f2083f5)
+#
 Site para consulta de livros, filtrando o mesmo livro em diferentes plataformas e retornando a comparação dos valores.
 Em breve uma API.
 
 <br>
+
 # Introdução ao Create React App
 
 Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
